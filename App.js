@@ -137,8 +137,8 @@
 
 import React from "react";
 import { View } from "react-native";
-import studentLogin from "./Learning/studentLogin.js";
-import StudentLogin2 from "./Learning/studentLogin2.js";
+import studentLogin from "./Screens/studentLogin.js";
+import StudentLogin2 from "./Screens/studentLogin2.js";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 const App = () => {
